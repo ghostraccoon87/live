@@ -53,331 +53,38 @@ http://80.77.52.6:4314/udp/226.0.0.9:12345
 #EXTINF:-1, Silk Sport HD 4 
 http://80.77.52.6:4314/udp/226.0.0.10:12345
 
-#EXTINF:-1,Film 4
+#‎EXTINF:0,Sky Sports 1 HD 
+rtmp://94.23.53.51/send//ss1hd.stream 
 
-http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:0,Sky Sports 2 HD 
+rtmp://94.23.53.51/send//ss2hd.stream 
 
-#EXTINF:-1,More 4
+#EXTINF:0,Sky Sports 3 HD ...
+rtmp://94.23.53.51/send//ss3hd.stream 
 
-http://78.129.175.72/live/more4/more4.m3u8
+#EXTINF:0,Sky Sports 4 HD 
+rtmp://94.23.53.51/send//ss4hd.stream 
 
-#EXTINF:-1,Channel 4
+#EXTINF:0,Sky Sports 5 HD 
+rtmp://94.23.53.51/send//ss5hd.stream 
 
-http://78.129.175.72/live/channel4/channel4.m3u8
+#EXTINF:0,Sky Sports News 
+rtmp://94.23.53.51/send//ssnewshd.stream
 
-#EXTINF:-1,Channel 5
+#EXTINF:0,BTSports 1 HD 
+rtmp://94.23.53.51/send//bt1hd.stream 
 
-http://78.129.175.72/live/channel5/channel5.m3u8
+#EXTINF:0,BT Sports 2 HD
+rtmp://94.23.53.51/send//bt2hd.stream
 
-#EXTINF:-1,5 USA
+#EXTINF:0,Sportnet360
+rtmp://94.23.53.51:1935/send/sn360hd.stream 
 
-http://78.129.175.72/live/5usa/5usa.m3u8
+#EXTINF:0,Sportnet world
+rtmp://94.23.53.51:1935/send/snwhd.stream 
 
-#EXTINF:-1,ITV be
+#EXTINF:0,BoxNation
+rtmp://94.23.53.51:1935/send/bxnhd.stream 
 
-http://78.129.175.72/live/itvbe/itvbe.m3u8
-
-#EXTINF:-1,ITV1
-
-http://78.129.175.72/live/itv/itv.m3u8
-
-#EXTINF:-1,ITV 2
-
-http://78.129.175.72/live/itv2/itv2.m3u8
-
-#EXTINF:-1,ITV 4
-
-http://78.129.175.72/live/itv4/itv4.m3u8
-
-#EXTINF:-1,CNBC Europe
-
-http://81.92.105.135:5555/pl.m3u8?channel=311
-
-#EXTINF:-1,Sky News Intl
-
-http://81.92.105.135:5555/pl.m3u8?channel=310
-
-#EXTINF:-1,CNBC Europe
-
-http://81.92.105.135:5555/pl.m3u8?channel=311
-
-#EXTINF:-1,BBC One Lon
-
-http://81.92.105.135:5555/pl.m3u8?channel=141
-
-#EXTINF:-1,BBC Two Eng
-
-http://81.92.105.135:5555/pl.m3u8?channel=142
-
-#EXTINF:-1,BBC World
-
-http://81.92.105.135:5555/pl.m3u8?channel=144
-
-#EXTINF:-1,BBC One NI
-
-http://81.92.105.135:5555/pl.m3u8?channel=145
-
-#EXTINF:-1,France 24 (in English)
-
-http://81.92.105.135:5555/pl.m3u8?channel=309
-
-#EXTINF:-1,ITV
-
-http://81.92.105.135:5555/pl.m3u8?channel=89
-
-#EXTINF:-1,ITV2
-
-http://81.92.105.135:5555/pl.m3u8?channel=90
-
-#EXTINF:-1,ITV3
-
-http://81.92.105.135:5555/pl.m3u8?channel=91
-
-#EXTINF:-1,ITV4
-
-http://81.92.105.135:5555/pl.m3u8?channel=92
-
-UKTV Channels
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8
-
-Unknown
-
-http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
-
-BBC One
-
-http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
-
-BBC Two
-
-http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
-
-BBC Three
-
-http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
-
-BBC Four
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
-
-ITV1
-
-http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
-
-ITV2
-
-http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
-
-ITV3
-
-http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
-
-ITV4
-
-http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
-
-Channel 4
-
-http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
-
-Channel 5
-
-http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
-
-Channel 5 +24
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
-
-5 Star
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
-
-5 USA
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
-
-E4
-
-http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
-
-More 4
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
-
-Film Four
-
-http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8
-
-4 Seven
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
-
-CBBC
-
-http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
-
-CBeebies
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
-
-Food Network (UK)
-
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
-
-Food Network +1 (UK)
-
-http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
-
-Horse & Country
-
-http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
-
-Community Channel
-
-http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
-
-True Movies 1
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
-
-True Movies 2
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
-
-Horror Channel
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
-
-Travel Channel (UK)
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
-
-Travel Channel +1 (UK)
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
-
-CBS Action
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
-
-Citv
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
-
-UC3
-
-http://llnw.live.simplestream.com/coder3/coder.channels.channel8/hls/3/playlist.m3u8
-
-The Jewellery Channel
-
-http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
-
-Fashion TV
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
-
-Box Nation
-
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
-
-Tiny Pop
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
-
-Pop
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
-
-Bloomberg
-
-http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8
-
-Euronews
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
-
-Russia Today
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
-
-Al Jazeera News (English)
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
-
-France 24 News (English)
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
-
-NHK World
-
-http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
-
-BBC News
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
-
-At The Races
-
-http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
-
-GOD Channel
-
-http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlist.m3u8
-
-Revelation TV
-
-http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
-
-Unknown Religious Channel
-
-http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
-
-BBC Alba
-
-http://llnw.live.simplestream.com/coder10/coder.channels.channel9/hls/3/playlist.m3u8
-
-Smash Hits
-
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
-
-4 Music
-
-http://llnw.live.simplestream.com/coder9/coder.channels.channel16/hls/3/playlist.m3u8
-
-Heat
-
-http://llnw.live.simplestream.com/coder9/coder.channels.channel88/hls/3/playlist.m3u8
-
-The BOX
-
-http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
-
-Planet Pop
-
-http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
-
-Kiss
-
-http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
-
-Capital TV
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
-
-Heart TV
-
-http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
-
-Channel AKA
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
-
-Now That’s What I Call Music
-
-http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
-
-Clubland
-
-http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
-
+#EXTINF:0,RacingUK
+rtmp://94.23.53.51:1935/send/rukhd.stream
