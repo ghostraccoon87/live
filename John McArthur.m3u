@@ -24,18 +24,6 @@ http://80.77.52.6:4314/udp/226.0.0.9:12345
 http://80.77.52.6:4314/udp/226.0.0.10:12345
 
 
-#‎EXTINF:0,beIN SPORTS 1 FR
-http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
-
-
-‪#‎EXTINF‬:0,beIN SPORTS 2 FR
-http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
-
-
-‪#‎EXTINF‬:0,Sky Sports 1 HD 
-rtmp://94.23.53.51/send//ss1hd.stream 
-
-
 #EXTINF:0,Sky Sports 2 HD 
 rtmp://94.23.53.51/send//ss2hd.stream 
 
@@ -199,5 +187,18 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1,SportTimeTV7
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+
+#‎EXTINF:0,beIN SPORTS 1 FR
+http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
+
+
+#‎EXTINF:0,beIN SPORTS 2 FR
+http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
+
+
+#‎EXTINF:0,Sky Sports 1 HD 
+rtmp://94.23.53.51/send//ss1hd.stream 
+
 
 
