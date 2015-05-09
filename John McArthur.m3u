@@ -1,0 +1,159 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1, [COLOR skyblue][I][B]This gives you cool colors [/B][/I][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+
+#this_is_how_to-make_a_note
+
+
+
+#EXTINF:-1, Silk Sport HD 1 
+http://80.77.52.6:4314/udp/226.0.0.7:12345
+
+#EXTINF:-1, Silk Sport HD 2 
+http://80.77.52.6:4314/udp/226.0.0.8:12345
+
+#EXTINF:-1, Silk Sport HD 3 
+http://80.77.52.6:4314/udp/226.0.0.9:12345
+
+#EXTINF:-1, Silk Sport HD 4 
+http://80.77.52.6:4314/udp/226.0.0.10:12345
+
+#EXTINF:-1, SKY SPORTS 1
+http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
+
+
+#EXTINF:-1,SKY SPORTS 2
+http://apniapps.ddns.net:8080/sp2/Msp2Two/index.m3u8
+
+
+#EXTINF:-1,SKY SPORTS 3
+http://apniapps.ddns.net:8080/sp3/sprT3/index.m3u8
+
+
+#EXTINF:-1,SKY SPORTS 4
+http://apniapps.ddns.net:8080/sp4/sp4Rkk/index.m3u8
+
+
+#EXTINF:-1,SKY SPORTS 5
+http://apniapps.ddns.net:8080/sp5/sp5Pk/index.m3u8
+
+
+S#EXTINF:-1,KY SPORTS F1
+http://apniapps.ddns.net:8080/f1/fOnE1/index.m3u8
+
+
+#EXTINF:-1,PTV Sports
+http://apniapps.ddns.net:8080/ptvsp1/ptvspR1/index.m3u8
+
+#EXTINF:-1,Super Cricket
+http://apniapps.ddns.net:8080/geoSup/geoSupRR/index.m3u8
+
+#EXTINF:-1,Willow
+http://apniapps.ddns.net:8080/Willo1/Willo1jk/index.m3u8
+
+
+#EXTINF:-1,Willow
+http://apniapps.ddns.net:8080/Willo1/Willo1jk/index.m3u8
+
+
+#EXTINF:-1,Sony Six
+http://apniapps.ddns.net:8080/Sony6/So00NYyT6/index.m3u8
+
+
+#EXTINF:-1,Ten Cricket
+http://apniapps.ddns.net:8080/TenCr/TenCrT/index.m3u8
+
+
+
+
+
+#EXTINF:-1,Channel 4
+http://5.189.144.85:1935/live/channel4/playlist.m3u8?auth=test
+
+ 
+#EXTINF:-1,ITV1
+http://5.189.144.85:1935/live/itv1_hd/playlist.m3u8?auth=test 
+
+
+#EXTINF:-1,BBC1
+http://5.189.144.85:1935/live/bbc1/playlist.m3u8?auth=test 
+
+
+#EXTINF:-1,BBC1
+http://5.189.144.85:1935/live/bbc1/playlist.m3u8?auth=test 
+
+#EXTINF:-1,BBC Three
+http://5.189.144.85:1935/live/bbc1/playlist.m3u8?auth=test
+ 
+#EXTINF:-1,BBC4
+http://5.189.144.85:1935/live/bbc4/playlist.m3u8?auth=test
+ 
+#EXTINF:1,cnn
+http://5.189.144.85:1935/live/cnn/playlist.m3u8?auth=test 
+
+#EXTINF:1,bbcnews
+http://5.189.144.85:1935/live/bbcworldnews/playlist.m3u8?auth=test 
+
+#EXTINF:1,skynews
+http://5.189.144.85:1935/live/skynewsint/playlist.m3u8?auth=test 
+
+#EXTINF:1,bbc1
+http://5.189.144.85:1935/live/bbc1/playlist.m3u8?auth=test
+ 
+#EXTINF:1,bbc2
+http://5.189.144.85:1935/live/bbc2/playlist.m3u8?auth=test
+ 
+#EXTINF:1,bbc3
+http://5.189.144.85:1935/live/bbc3/playlist.m3u8?auth=test
+ 
+#EXTINF:1,bbc4
+http://5.189.144.85:1935/live/bbc4/playlist.m3u8?auth=test
+ 
+#EXTINF:1,channel4
+http://5.189.144.85:1935/live/channel4/playlist.m3u8?auth=test 
+
+#EXTINF:1,itv1_hd
+http://5.189.144.85:1935/live/itv1_hd/playlist.m3u8?auth=test 
+
+#EXTINF:1,flava
+http://5.189.144.85:1935/live/flava/playlist.m3u8?auth=test 
+
+#EXTINF:1,heart
+http://5.189.144.85:1935/live/heartv/playlist.m3u8?auth=test 
+
+#EXTINF:1,planetpop
+http://5.189.144.85:1935/live/planetpop/playlist.m3u8?auth=test
+ 
+#EXTINF:1,the_box
+http://5.189.144.85:1935/live/the_box/playlist.m3u8?auth=test 
+
+#EXTINF:1,bliss
+http://5.189.144.85:1935/live/bliss/playlist.m3u8?auth=test 
+
+#EXTINF:1,capitaltv
+http://5.189.144.85:1935/live/capitaltv/playlist.m3u8?auth=test 
+
+#EXTINF:1,disneychannel
+http://5.189.144.85:1935/live/disneychannel/playlist.m3u8?auth=test 
+
+#EXTINF:-1,BBC PERSIAN
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8 
+
+#EXTINF:-1,ITV 1 
+http://5.189.144.85:1935/live/itv1_hd/playlist.m3u8?auth=test 
+
+#EXTINF:-1,ITV BE
+http://81.23.58.184:8080/udp/0.0.0.0:20000
+ 
+#EXTINF:-1,ITV BE alt
+http://81.23.58.184:8080/udp/0.0.0.0:20008 
+
+#EXTINF:-1,Channel 4
+http://5.189.144.85:1935/live/channel4/playlist.m3u8?auth=test 
+
+
