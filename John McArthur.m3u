@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1, [COLOR skyblue][I][B]This gives you cool colors [/B][/I][/COLOR]
+#EXTINF:-1, [COLOR skyblue][I][B]Welcome to my playlist i hope you enjoy. Links are what they are [/B][/I][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
@@ -23,29 +23,24 @@ http://80.77.52.6:4314/udp/226.0.0.9:12345
 #EXTINF:-1, Silk Sport HD 4 
 http://80.77.52.6:4314/udp/226.0.0.10:12345
 
-#EXTINF:-1, SKY SPORTS 1
-http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
 
+#EXTINF:-1, Sky Sports 1
+http://apniapps.ddns.net:8080/sp1/sp1/index.m3u8
 
-#EXTINF:-1,SKY SPORTS 2
-http://apniapps.ddns.net:8080/sp2/Msp2Two/index.m3u8
+#EXTINF:-1, Sky Sports 2
+http://apniapps.ddns.net:8080/sp2/sp2/index.m3u8
 
+#EXTINF:-1, Sky Sports 3
+http://apniapps.ddns.net:8080/sp3/sp3/index.m3u8
 
-#EXTINF:-1,SKY SPORTS 3
-http://apniapps.ddns.net:8080/sp3/sprT3/index.m3u8
+#EXTINF:-1, Sky Sports 4
+http://apniapps.ddns.net:8080/sp4/sp4/index.m3u8
 
+#EXTINF:-1, Sky Sports 5
+http://apniapps.ddns.net:8080/sp5/sp5/index.m3u8
 
-#EXTINF:-1,SKY SPORTS 4
-http://apniapps.ddns.net:8080/sp4/sp4Rkk/index.m3u8
-
-
-#EXTINF:-1,SKY SPORTS 5
-http://apniapps.ddns.net:8080/sp5/sp5Pk/index.m3u8
-
-
-S#EXTINF:-1,KY SPORTS F1
-http://apniapps.ddns.net:8080/f1/fOnE1/index.m3u8
-
+#EXTINF:-1, Sky Sports F1
+http://apniapps.ddns.net:8080/f1/f1/index.m3u8
 
 #EXTINF:-1,PTV Sports
 http://apniapps.ddns.net:8080/ptvsp1/ptvspR1/index.m3u8
