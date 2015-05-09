@@ -206,3 +206,9 @@ http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
 #‎EXTINF:-1,Sky Sports 1 HD 
 rtmp://94.23.53.51/send//ss1hd.stream
 
+ 
+#EXTINF:-1,Footy.ml stream1
+http://stream.ssh101.com/hls/laypark.m3u8
+ 
+#EXTINF:-1,Footy.ml stream2
+http://stream.ssh101.com/hls/manglobes.m3u8
