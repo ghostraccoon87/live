@@ -204,7 +204,33 @@ http://yoolive.com/hls/b1_fr.m3u8?st=lwvQ-7wxE9HL3wZwrVEocg&e=1431080001
 
 
 #‎EXTINF:0,Sky Sports 1 HD 
-rtmp://94.23.53.51/send//ss1hd.stream 
+rtmp://94.23.53.51/send//ss1hd.stream
+
+#EXTINF:-1, [COLOR pink][I][B]portugal stream[/B][/I][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=YVsbT-EF0Pc
+
+ 
+
+‪#‎EXTINF‬:-1,SPORTV 1 HD
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/128.ts
+
+#EXTINF:-1,SPORTV 2 HD
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/130.ts
+
+#EXTINF:-1,SPORTV 3
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/131.ts
+
+#EXTINF:-1,SPORTV 4
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/132.ts
+
+#EXTINF:-1,SPORTV 5
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/133.ts
+
+#EXTINF:-1,BENFICA TV 1
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/134.ts
+
+#EXTINF:-1,SPORTING TV.
+http://188.241.113.252:8000/…/IPTV-PORTUG…/teste-user/135.ts
 
 
 
