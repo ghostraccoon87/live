@@ -16,27 +16,26 @@ plugin://plugin.video.youtube/?action=play_video&videoid=umNACDTH-BY
 #this_is_how_to-make_a_note
 
 
-#EXTM3U
-#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
-Sky Sport 1 HD
+
+#EXTINF:-1, Sky Sport 1 HD
 http://smarterapps.ddns.net:8080/spTt1/sp0RT1eK/index.m3u8
  
-Sky Sport 2 HD
+#EXTINF:-1, Sky Sport 2 HD
 http://smarterapps.ddns.net:8080/spTfor2/MnSsp2Two/index.m3u8
  
-Sky Sport 3 HD
+#EXTINF:-1, Sky Sport 3 HD
 http://smarterapps.ddns.net:8080/sp3/sprT3Ke/index.m3u8
  
-Sky Sport 4 HD
+#EXTINF:-1, Sky Sport 4 HD
 http://smarterapps.ddns.net:8080/sp4/sp4RkkW/index.m3u8
  
-Sky Sport 5 HD
+#EXTINF:-1,  Sport 5 HD
 http://smarterapps.ddns.net:8080/sp5/sp5PkeY/index.m3u8
  
-F1
+#EXTINF:-1, F1
 http://smarterapps.ddns.net:8080/f1/f4OnE1/index.m3u8
 
-F1 SPORT
+#EXTINF:-1,  SPORT
 http://aos001feh-live.hls.adaptive.level3.net/formulae/live/wif/wif.m3u8
 
 #EXTINF:-1, Silk Sport HD 1 
