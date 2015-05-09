@@ -3,10 +3,12 @@
 
 
 
-#EXTINF:-1, [COLOR green][I][B]mc.xbmc WELCOME :) Links are what they are some may buffer [/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green][I][B]RACCOONstreams WELCOME :) Links are what they are some may buffer [/B][/I][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=YVsbT-EF0Pc
 
 
+#EXTINF:-1, [COLOR blue][I][B]Thanks Stewart Phillips for testing [/B][/I][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=YVsbT-EF0Pc
 #this_is_how_to-make_a_note
 
 
